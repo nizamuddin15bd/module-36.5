@@ -35,3 +35,4 @@ loadMeals('fish');
 const loadMealsDetails = mealName => {
     console.log(mealName);
 }
+onrejectionhandled
